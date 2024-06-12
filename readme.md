@@ -20,4 +20,25 @@ cd breachdirectory_osint
 python3 breachdirectory.py correos.txt
 ```
 
+```js
+    "correo": "exmaple.com",
+    "resultados": [
+        {
+            "email": "exmaple.com",
+            "hash_password": true,
+            "password": "48048***",
+            "sha1": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+            "hash": "XXXXXXXXXXXXX",
+            "sources": "XXXXXXXXXXX"
+        },
+        {
+            "email": "exmaple.com",
+            "hash_password": true,
+            "password": "alexy*******",
+            "sha1": "XXXXXXXXXXXXXXXXXXXX",
+            "hash": "XXXXXXXXXXXXXXXXXXXXX",
+            "sources": "XXXXXXXXXXXXX"
+        }
+    ]
+```
 
