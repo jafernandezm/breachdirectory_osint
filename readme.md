@@ -1,6 +1,6 @@
 # Herramienta de Verificación de Correos en BreachDirectory
 
-**Suni** es una herramienta desarrollada en Python que permite verificar la presencia de direcciones de correo electrónico en la base de datos de BreachDirectory, una API que recopila información sobre violaciones de datos y fugas de seguridad.
+Es una herramienta desarrollada en Python que permite verificar la presencia de direcciones de correo electrónico en la base de datos de BreachDirectory, una API que recopila información sobre violaciones de datos y fugas de seguridad.
 
 ## Características
 
